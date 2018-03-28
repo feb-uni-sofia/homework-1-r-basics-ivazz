@@ -9,4 +9,3 @@ rep (s, each=3)
 seq (7, 21)
 7:21
 length(7:21)
-#HW
